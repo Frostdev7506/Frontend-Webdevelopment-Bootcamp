@@ -1,3 +1,10 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+
 @media(min-width:768px){
     .newsinput{
         width: 50%;
