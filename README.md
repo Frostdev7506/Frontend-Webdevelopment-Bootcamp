@@ -4,7 +4,7 @@
 
 # [LIVE WEBSITE (Try it out) ](https://frostdev7506.github.io/Frontend-Webdevelopment-Bootcamp)
 
-## Resources used
+## Resources used 🧐😼
 
 [Bootstrap Icon](https://icons.getbootstrap.com) for icons.
 
